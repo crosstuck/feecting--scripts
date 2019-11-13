@@ -1,2 +1,2 @@
 # feecting--scripts
-This is my repository of becoming a #FEECTING awesome programmer 
+This is my repository of becoming a #FEECTING programmer 
